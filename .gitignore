@@ -1,0 +1,11 @@
+# Run outputs (may contain long LLM traces; omit from public uploads if desired)
+SPIN/results/
+
+# Local secrets — use env or SPIN_DOTENV_PATH outside the repo
+.env
+*.env.local
+
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/

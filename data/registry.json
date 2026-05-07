@@ -1,0 +1,40 @@
+{
+  "version": "0.1.0",
+  "last_updated": "2026-05-06",
+  "total_studies": 2,
+  "studies": [
+    {
+      "id": "P_M",
+      "title": "Pluralistic Ignorance and Alcohol Use on Campus",
+      "domain": "social_psychology",
+      "subdomain": "social_cognition",
+      "difficulty": "medium",
+      "tags": [
+        "pluralistic_ignorance",
+        "social_norms",
+        "alcohol",
+        "college_students"
+      ],
+      "status": "active",
+      "added_date": "2025-12-29",
+      "version": "1.0",
+      "estimated_time_minutes": 10
+    },
+    {
+      "id": "S_T",
+      "title": "Thinking through Uncertainty: Nonconsequential Reasoning",
+      "domain": "cognitive_psychology",
+      "subdomain": "judgment_and_decision_making",
+      "difficulty": "medium",
+      "tags": [
+        "uncertainty",
+        "reasoning",
+        "decision_making"
+      ],
+      "status": "active",
+      "added_date": "2025-12-29",
+      "version": "1.0",
+      "estimated_time_minutes": 10
+    }
+  ]
+}

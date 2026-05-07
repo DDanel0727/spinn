@@ -1,0 +1,10 @@
+# SPIN pipeline (material/SPIN): install in the same env you use for ./run_spin.sh
+# pip install -r requirements.txt
+
+openai>=1.40.0
+httpx>=0.27.0
+tqdm>=4.66.0
+numpy>=1.24.0
+
+# Only if you use Anthropic (Claude) models or formatter_provider=anthropic
+anthropic>=0.25.0
