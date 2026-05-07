@@ -1,4 +1,4 @@
-# material
+# SPIN
 
 ## API configuration
 
