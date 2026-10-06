@@ -2,6 +2,8 @@
 
 Official repo of **Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior**, NeurIPS 2026.
 
+![overview](./SPIN/pic1.pdf)
+
 ## API configuration
 
 Edit **`models`** in this directory: one entry per model with fields `endpoint`, `api_version` (use an empty string `""` for OpenAI-compatible endpoints), and `api_key`. Keys can also be overridden with environment variables such as `OPENAI_API_KEY` / `AZURE_OPENAI_API_KEY`.
