@@ -2,7 +2,7 @@
 
 Official repo of **Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior**, NeurIPS 2026.
 
-![overview](./SPIN/pic1.pdf)
+![overview](./SPIN/framework.png)
 
 ## API configuration
 
@@ -24,3 +24,16 @@ The data directory defaults to **`data/`** (sibling of `models`). Set environmen
 ## Where results go
 
 Logs and artifacts are written under **`SPIN/results/<method>/<run_name>/`** (for example under the repo root; `run_spin.sh` prints the exact path when it runs).
+
+## Citing
+
+If you find this work useful in your research, please consider citing our paper:
+
+```bibtex
+@inproceedings{deng2026enhancing,
+  title     = {Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior},
+  author    = {Deng, Zhibo and Li, Dongyuan and Ge, Shuwen and Zhang, Ziqing and Zhang, Ying and Jiang, Renhe},
+  booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2026}
+}
+```
