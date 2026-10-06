@@ -1,4 +1,6 @@
-# SPIN
+# Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior
+
+Official repo of **Enhancing LLMs with Cognitive-Affective Personality Inference for Simulating Human Social-Psychological Behavior**, NeurIPS 2026.
 
 ## API configuration
 
